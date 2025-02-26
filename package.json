@@ -1,0 +1,19 @@
+{
+  "name": "thapa-technology-17-02-2005",
+  "version": "1.0.0",
+  "description": "world best node.js",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.8.1",
+    "chalk": "^5.4.1",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
