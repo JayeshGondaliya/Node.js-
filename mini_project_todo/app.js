@@ -84,7 +84,7 @@ const userPrompt = () => {
 
       case "4":
         // exit
-        console.log("Exiting the app");
+        console.log("Exiting the App");
 
         rl.close();
         break;
