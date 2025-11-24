@@ -34,7 +34,7 @@ https.get(url, (response) => {
         } else {
           console.log("invalid currency code");
         }
-        rl.close()
+        rl.close();
       });
     });
   });
